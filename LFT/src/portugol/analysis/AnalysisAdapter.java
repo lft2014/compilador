@@ -273,6 +273,18 @@ public class AnalysisAdapter implements Analysis
     }
 
     @Override
+    public void caseTLChave(TLChave node)
+    {
+        defaultCase(node);
+    }
+
+    @Override
+    public void caseTRChave(TRChave node)
+    {
+        defaultCase(node);
+    }
+
+    @Override
     public void caseTIgual(TIgual node)
     {
         defaultCase(node);

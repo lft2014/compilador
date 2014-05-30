@@ -6,3 +6,5 @@ fim para inicio inicio inicio
 fim avalie
 fim se
 fim.
+{}
+[]

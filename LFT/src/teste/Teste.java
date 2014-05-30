@@ -6,13 +6,13 @@ import portugol.node.*;
 
 /**
  *
- * @author gilcley silva and Jessica silveira
+ * @author Gilcley Silva and Jessica Silveira
  */
 public class Teste {
 
     public void iniciar() throws FileNotFoundException, IOException {
         //carrega o arquivo
-        File f = new File("C:\\Users\\gilcley silva\\Documents\\NetBeansProjects\\LFT\\src\\teste\\t.txt");
+        File f = new File("C:\\Users\\Eraldo\\Documents\\esse\\compilador\\LFT\\src\\teste\\t.txt");
         Reader arq_teste;
         try {
             arq_teste = new FileReader(f);

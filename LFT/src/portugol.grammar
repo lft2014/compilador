@@ -67,6 +67,8 @@ Tokens
 {normal} aspa_s = ''';
 {normal} l_colchete = '[' ;
 {normal} r_colchete = ']' ;
+{normal} l_chave = '{' ;
+{normal} r_chave = '}' ;
 
   //boolean symbols    
 {normal} igual = '=' ;

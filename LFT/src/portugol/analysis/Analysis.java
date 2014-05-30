@@ -45,6 +45,8 @@ public interface Analysis extends Switch
     void caseTAspaS(TAspaS node);
     void caseTLColchete(TLColchete node);
     void caseTRColchete(TRColchete node);
+    void caseTLChave(TLChave node);
+    void caseTRChave(TRChave node);
     void caseTIgual(TIgual node);
     void caseTMaior(TMaior node);
     void caseTMenor(TMenor node);
