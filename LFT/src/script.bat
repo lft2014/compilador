@@ -1,1 +1,0 @@
-start java -jar sablecc.jar portugol.grammar
